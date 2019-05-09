@@ -1,0 +1,34 @@
+body{
+    background-color: aqua;
+    background-size: auto;
+}
+h1{
+    color:darkmagenta;
+    text-align:center;
+}
+h2{
+
+}
+#ingredients {
+    color: crimson;
+    font-size:1em;
+    border-color: olivedrab;
+    background-color: aliceblue;
+}
+#directions{
+    background-color:lightblue ;
+    border-color:lightskyblue;
+}
+p{
+    font-family: Broadway;
+    font-size:20px;
+
+}
+img{
+    height:200px;
+    width: 400px;
+    border-color:darkblue;
+    border-style: wave;
+    padding-left: 50px;
+    border-spacing: px;
+}
